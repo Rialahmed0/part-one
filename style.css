@@ -159,12 +159,28 @@ body,h1,h2,h3,h4,h5,h6,p,a,span{
 }
 
 
+ /* banner bottom section  */
 
-
-
-
-
-
+.banner-bottom{
+    background: #f7f9ff;
+    padding: 100px 0;
+}
+.video-left{
+    width: 48%;
+}
+.video-content-right{
+    width: 48%;
+}
+.video-content-right h3{
+    font-size: 77px;
+    font-weight: 300;
+    margin-bottom: 35px;
+}
+.video-content-right p{
+    color: #767676;
+    font-size: 18px;
+    line-height: 1.7em;
+}
 
 
 
