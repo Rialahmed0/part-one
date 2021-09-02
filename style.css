@@ -28,7 +28,7 @@ img{
 a{
     text-decoration: none;
 }
-.mid-content{
+.container{
     max-width: 1300px;
     margin: auto;
 }
@@ -182,8 +182,55 @@ body,h1,h2,h3,h4,h5,h6,p,a,span{
     line-height: 1.7em;
 }
 
+/* service section  */
+.service{
+    background-color: #fff;
+    padding: 100px 0;
+}
+.section-title h1{
+    font-size: 64px;
+    margin-bottom: 20px;
+}
+.section-title p{
+    font-size: 26px;
+    color: #767676;
+}
 
+/* services-items */
+.services-items{
+    margin-top: 90px;
+}
+.service-box{
+    margin-bottom: 30px;
+    width: 31.3%;
+    box-shadow: 4px 4px 20px 0 rgb(0 0 0 / 40%);
+    margin-right: 2%;
+    padding: 30px;
+    box-sizing: border-box;
+    
+}
+.s-icon{    
+    width: 24%;
+    float: left;
+    min-height: 151px;
+    font-size: 45px;
+    color: slateblue;
+}
 
+.s-content{
+    margin-top: 2px;
+}
+.s-content h3{
+    font-size: 32px;
+    font-weight: 500;
+    color: slateblue;
+    margin-bottom: 20px;
+}
+.s-content p{
+    color: #767676;
+    font-size: 20px;
+    line-height: 40px;
+}
 
 
 
