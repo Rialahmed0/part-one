@@ -214,7 +214,7 @@ body,h1,h2,h3,h4,h5,h6,p,a,span{
     float: left;
     min-height: 151px;
     font-size: 45px;
-    color: slateblue;
+    color: rgb(104, 89, 202);
 }
 
 .s-content{
@@ -223,7 +223,7 @@ body,h1,h2,h3,h4,h5,h6,p,a,span{
 .s-content h3{
     font-size: 32px;
     font-weight: 500;
-    color: slateblue;
+    color: rgb(104, 89, 202);
     margin-bottom: 20px;
 }
 .s-content p{
