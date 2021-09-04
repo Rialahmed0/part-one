@@ -133,7 +133,8 @@ body,h1,h2,h3,h4,h5,h6,p,a,span{
     position: absolute;
     left: 0;
     top: 100%;
-    width: 300px;
+    width: 200px;
+
     background: #fff;
 
     opacity: 0;
